@@ -1,4 +1,4 @@
 # DevanZapadiaDemo
 This is my first Git Repository.
 <br>
-Author - Devan Zapadia
+Author - Devan Zapadia <Coder>
